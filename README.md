@@ -25,7 +25,7 @@ Hi, I'm ayman, a Cloud solutions architect from AWS, with years of expertise in 
 
 - Automation using Python scraping.
 
-- Red Hat System Administrator.
+- linux.
 
 - Data serialization language (configuration file) using YAML.
 
